@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Palindromchecker</string>
+    <string name="textboxText">Wort Eingeben</string>
+    <string name="buttonText">Prüfen</string>
+    <string name="hintText">Bitte Wort eingeben und Prüfen drücken.</string>
+    <string name="succsessText">Das Wort ist ein Palindrom :-)</string>
+    <string name="noSuccsessText">Das Wort ist kein Palindrom :,(</string>
+    <string name="wordToShortText">Bitte ein längeres Wort eingeben!</string>
+    <string name="noTextFound">Bitte ein Wort eingeben!</string>
 </resources>
